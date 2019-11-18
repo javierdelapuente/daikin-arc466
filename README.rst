@@ -10,7 +10,7 @@ I based the protocol on the following pages:
  - http://rdlab.cdmt.vn/project-2013/daikin-ir-protocol
  - http://www.mcmajan.com/mcmajanwpr/blog/2013/10/21/ir-daikin-decodificare-protocolli-infrarossi-complessi/
 
-I use a Broadlink Mini RM3, so I thank to the authors of the fantastic library https://github.com/mjg59/python-broadlink
+I use a Broadlink Mini RM3, so I thank the authors of the fantastic library https://github.com/mjg59/python-broadlink
 
 
 Installation
